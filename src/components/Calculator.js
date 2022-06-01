@@ -1,5 +1,5 @@
 /* eslint-disable react/prefer-stateless-function */
-import './Calculator.css';
+import '../Calculator.css';
 import React from 'react';
 
 class Calculator extends React.Component {
