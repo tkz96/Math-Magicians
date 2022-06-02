@@ -32,10 +32,14 @@
   background: #d5d4d4;
 }
 
+.btn:active {
+  background-color: #9c9c9c;
+  transform: scale(0.9);
+}
+
 .btn.orange {
   background: orange;
 }
-
 
 .btn.double {
   grid-area: 5/1/5/3;
