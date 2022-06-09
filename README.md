@@ -3,10 +3,14 @@
 This repository is dedicated to the Math Magicians Project for Module 3 at Microverse.
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Link to Live Version
+
+[Deployed on Netlify](https://lambent-paletas-6e4604.netlify.app/)
+
 ## Built With
 
 - Languages: React, CSS
-- Technologies: Git, GitHub, VS Code, Webpack, Babel
+- Technologies: Git, GitHub, VS Code, Webpack, Babel, Netlify
 
 ## Getting Started
 
