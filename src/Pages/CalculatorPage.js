@@ -1,3 +1,4 @@
+import '../styles/CalculatorPage.css';
 import Header from '../components/Header';
 import Calculator from '../components/Calculator';
 
