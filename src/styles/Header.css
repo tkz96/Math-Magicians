@@ -1,0 +1,19 @@
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
