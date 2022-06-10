@@ -5,7 +5,7 @@ This repository is dedicated to the Math Magicians Project for Module 3 at Micro
 
 # Link to Live Version
 
-[Deployed on Netlify](https://lambent-paletas-6e4604.netlify.app/)
+[Deployed on Netlify](https://lambent-paletas-6e4604.netlify.app/) <br />
 [Deployed on Heroku](https://math-magic-54703.herokuapp.com/)
 
 ## Built With
